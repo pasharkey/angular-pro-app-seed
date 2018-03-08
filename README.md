@@ -1,16 +1,8 @@
 <h1 align="center">
-<img width="40" valign="bottom" src="https://angular.io/assets/images/logos/angular/angular.svg">
-Angular Pro: Final App Seed
+Couch Potato
 </h1>
-<h4 align="center">Seed app for fitness manager application using Angular v4+ and AngularFire2.</h4>
+<h4 align="center">Application to track and notify users when a movie is availble to rent or stream</h4>
 
----
-
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banners/ua-github.svg"></a>
-
----
-
-> This repo serves as the seed project for the Ultimate Angular Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com/courses/) architecture!
 
 [Setup and install](#setup-and-install) |
 [Tasks](#tasks) |
