@@ -19,7 +19,8 @@ Fork this repo from inside GitHub so you can commit directly to your account, or
 During the time building this project, you'll need development dependencies of which run on Node.js, follow the steps below for setting everything up (if you have some of these already, skip to the next step where appropriate):
 
 1. Download and install [Node.js here](https://nodejs.org/en/download/) for Windows or for Mac.
-2. Install Firebase CLI on the command-line with `npm install -g firebase-tools`
+2. Install Yarn on the command-line with `npm install -g yarn`
+3. Install Firebase CLI on the command-line with `npm install -g firebase-tools`
 
 That's about it for tooling you'll need to run the project, let's move onto the project install.
 
